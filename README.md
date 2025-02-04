@@ -1,6 +1,6 @@
 # Car Sales-Data Analytics
 
-### [Power Bi -Dashboard Link](https://app.powerbi.com/groups/me/reports/00d0b4ef-e5fc-4629-9c33-3632c7ab8fab/bf4f603e241c591c083b?experience=power-bi)
+### [Power Bi -Dashboard Link](https://github.com/sachinbasyal/Car-Sales-Data-Analytics/blob/main/Dashboard%20%26%20Report/Car%20Sales%20-Insights.pbix)
 
 ## Background (scenario):
 Our organization operates as a car dealership offering a wide range of car models. To optimize performance monitoring and decision-making, we require a robust Car Sales Dashboard built in Power BI. This tool will enable us to track, analyze, and visualize sales data effectively, ensuring we stay competitive and agile in the market.
